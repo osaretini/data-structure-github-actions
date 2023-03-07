@@ -1,0 +1,16 @@
+{
+  "name": "data-structure-github-actions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/osaretini/data-structure-github-actions.git",
+  "author": "osaretin <osaretini@apadmi.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "vitest",
+    "test:ui": "vitest --ui",
+    "test:ci": "vitest run"
+  },
+  "dependencies": {
+    "vitest": "^0.29.2"
+  }
+}
